@@ -1,4 +1,0 @@
-# QuantitativeNutriology
-
-# Entrance
-starter.py
